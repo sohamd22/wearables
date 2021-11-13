@@ -86,6 +86,7 @@ p {
 }
 .page-info hr,
 .footer-info hr {
+  border-color: white;
   border-width: 0 0 2px;
   width: 92.5%;
 }
